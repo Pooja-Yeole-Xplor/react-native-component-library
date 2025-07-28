@@ -1,4 +1,4 @@
-# expo-custom-button
+# react-native-custom-library
 
 A reusable custom button component for React Native (Expo) with TypeScript support, compatible with iOS, Android, and Web.
 
